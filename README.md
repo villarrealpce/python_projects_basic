@@ -7,4 +7,5 @@ Estos proyectos forman parte del curso de formación "100 Days of Python Pledge"
 * Uso de Variables
 * Uso de loop while
 * Uso de condicional if
-2. Se ajusto para validar palabras y fraces. ('La noche esta tan bella') es válido
+2. Se ajusto para validar palabras y frases. ('La noche esta tan bella') es válido
+3. Se mantiene el criterio de palabras y frases en minúsculas ***lower case letters***
