@@ -26,7 +26,7 @@ def encrypt(text_input, shift_input):
 def caesar(text_input, shift_input, direction_input):
     text_out = []
     if shift_input > len(alphabet)-1:
-        shift_input %= 25
+        shift_input %= len(alphabet)-1
         print(shift_input)
     if direction_input == "decode":
         shift_input *= -1
